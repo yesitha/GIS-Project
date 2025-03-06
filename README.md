@@ -4,7 +4,8 @@
  
 
 #### 📍 **Project Overview**
-This project leverages **Geographic Information Systems (GIS)** to analyze cellular network coverage in **Sri Lanka**. By integrating **cellular tower data, population density information, and terrain elevation data**, we aim to:
+This project leverages **Geographic Information Systems (GIS)** to analyze cellular network coverage in **Sri Lanka**. By integrating **cellular tower data, population density information, and terrain elevation data**.<br>
+We aim to:
 - **Assess** signal propagation and distribution across diverse terrains.
 - **Identify** coverage gaps based on real-world data.
 - **Optimize** potential locations for new cellular towers.
@@ -77,7 +78,7 @@ pip install ipywidgets rasterio geopandas numpy pandas matplotlib
 1. Open [Google Colab](https://colab.research.google.com/)
 2. Upload the `.ipynb` file or run it from GitHub:
    ```python
-   !git clone https://github.com/YOUR_USERNAME/gis-project
+   !git clone https://github.com/yesitha/GIS-Project
    ```
 3. Run the cells sequentially.
 
